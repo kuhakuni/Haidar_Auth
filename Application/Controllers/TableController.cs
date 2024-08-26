@@ -7,10 +7,12 @@ using Persistence.Repositories;
 using Core.Features.Commands.CreateTableSpecifications;
 using Core.Features.Commands.UpdateTableSpecification;
 using Core.Features.Commands.DeleteTableSpecification;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace Application.Controllers;
 
+[Authorize]
 public class TableController : BaseController
 {
     private readonly IMediator _mediator;
@@ -19,7 +21,7 @@ public class TableController : BaseController
     {
         _mediator = mediator;
     }
-    
+
     [HttpGet("v1/table/specification/{id}")]
     public async Task<GetTableSpecificationsResponse> GetTableSpecifications(Guid id)
     {
@@ -30,6 +32,7 @@ public class TableController : BaseController
         var response = await _mediator.Send(request);
         return response;
     }
+
     [HttpPost("v1/table/specification")]
     public async Task<CreateTableSpecificationsResponse> CreateTableSpecifications([FromBody] CreateTableSpecificationsCommand command)
     {
@@ -53,7 +56,6 @@ public class TableController : BaseController
 
         return BadRequest(response.Message);
     }
-
     [HttpDelete("v1/table/specification/{id}")]
     public async Task<IActionResult> DeleteTableSpecification(Guid id)
     {

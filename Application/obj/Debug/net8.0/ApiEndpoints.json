@@ -20,6 +20,22 @@
     ]
   },
   {
+    "ContainingType": "Application.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "Application.Controllers.AuthController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Application.Controllers.TableController",
     "Method": "CreateTableSpecifications",
     "RelativePath": "api/v1/table/specification",

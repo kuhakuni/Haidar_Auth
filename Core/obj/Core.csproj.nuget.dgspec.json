@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Core\\Core.csproj": {}
+    "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Core\\Core.csproj": {
+    "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Core\\Core.csproj",
+        "projectPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Core\\obj\\",
+        "outputPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\Persistence.csproj"
+              "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -57,6 +57,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
@@ -79,14 +83,14 @@
         }
       }
     },
-    "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\Persistence.csproj": {
+    "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Mandiri\\Bootcamp\\day-3\\LearnWebApi\\Persistence\\obj\\",
+        "outputPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,6 +132,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

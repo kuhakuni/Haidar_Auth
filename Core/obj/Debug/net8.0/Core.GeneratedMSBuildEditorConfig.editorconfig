@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Core
-build_property.ProjectDir = D:\Mandiri\Bootcamp\day-3\LearnWebApi\Core\
+build_property.ProjectDir = D:\Mandiri\Bootcamp\day-6\Haidar_Redis\Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,9 +1,9 @@
-using Microsoft.AspNetCore.Mvc;
+    using Microsoft.AspNetCore.Mvc;
 
-namespace Application.Controllers;
+    namespace Application.Controllers;
 
-[ApiController]
-[Route("api")]
-public class BaseController : ControllerBase
-{
-}
+    [ApiController]
+    [Route("api")]
+    public class BaseController : ControllerBase
+    {
+    }
