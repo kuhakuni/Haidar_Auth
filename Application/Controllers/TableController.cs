@@ -39,6 +39,7 @@ public class TableController : BaseController
         var response = await _mediator.Send(command);
         return response;
     }
+
     [HttpPut("v1/table/specification/{id}")]
     public async Task<IActionResult> UpdateTableSpecification(Guid id, [FromBody] UpdateTableSpecificationCommand command)
     {

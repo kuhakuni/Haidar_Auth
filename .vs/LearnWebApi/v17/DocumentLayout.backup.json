@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +19,20 @@
       "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\core\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\mandiri\\bootcamp\\day-6\\haidar_redis\\core\\features\\commands\\createtablespecifications\\createtablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Application\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwEUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T05:15:08.74Z",
               "EditorCaption": ""
@@ -141,53 +141,40 @@
               "RelativeDocumentMoniker": "Application\\appsettings.json",
               "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\appsettings.json",
               "RelativeToolTip": "Application\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-26T05:06:54.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Program.cs",
-              "RelativeDocumentMoniker": "Application\\Program.cs",
-              "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Program.cs",
-              "RelativeToolTip": "Application\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:34:56.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Middlewares\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "Core\\Middlewares\\JwtMiddleware.cs",
               "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Middlewares\\JwtMiddleware.cs",
               "RelativeToolTip": "Core\\Middlewares\\JwtMiddleware.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwC8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T04:20:38.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TableController.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\TableController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
               "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\TableController.cs",
               "RelativeToolTip": "Application\\Controllers\\TableController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T10:40:16.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IndexController.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\IndexController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\IndexController.cs",
@@ -200,20 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersistenceRegistration.cs",
-              "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\PersistenceRegistration.cs",
-              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
-              "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\PersistenceRegistration.cs",
-              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:51:18.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\BaseController.cs",
@@ -226,6 +200,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:34:56.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:51:18.811Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CreateTableSpecificationsResponse.cs",
               "DocumentMoniker": "D:\\Mandiri\\Bootcamp\\day-6\\Haidar_Redis\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationsResponse.cs",
@@ -234,8 +233,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationsResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:46:05.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:46:05.395Z"
             },
             {
               "$type": "Document",
@@ -247,8 +245,7 @@
               "RelativeToolTip": "Persistence\\Redis\\RedisServer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T03:41:01.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T03:41:01.345Z"
             },
             {
               "$type": "Document",
@@ -260,8 +257,7 @@
               "RelativeToolTip": "Core\\ApplicationServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T05:29:23.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T05:29:23.102Z"
             },
             {
               "$type": "Document",
@@ -273,8 +269,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationsHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:45:59.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:45:59.081Z"
             },
             {
               "$type": "Document",
@@ -286,8 +281,7 @@
               "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:50:25.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:50:25.686Z"
             },
             {
               "$type": "Document",
@@ -299,8 +293,7 @@
               "RelativeToolTip": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:47:25.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:47:25.839Z"
             },
             {
               "$type": "Document",
@@ -312,8 +305,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationsCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:45:46.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:45:46.726Z"
             },
             {
               "$type": "Document",
@@ -325,8 +317,7 @@
               "RelativeToolTip": "Persistence\\Redis\\RedisCacheService.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T04:18:33.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:18:33.358Z"
             },
             {
               "$type": "Document",
@@ -338,8 +329,7 @@
               "RelativeToolTip": "Persistence\\Redis\\ICacheService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAlwAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T04:17:41.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:17:41.785Z"
             },
             {
               "$type": "Document",
@@ -351,8 +341,7 @@
               "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:56:09.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T07:56:09.497Z"
             },
             {
               "$type": "Document",
@@ -364,8 +353,7 @@
               "RelativeToolTip": "Persistence\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:56:31.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T09:56:31.227Z"
             },
             {
               "$type": "Document",
@@ -377,8 +365,7 @@
               "RelativeToolTip": "Persistence\\Repositories\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:40:32.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:40:32.09Z"
             },
             {
               "$type": "Document",
@@ -390,8 +377,7 @@
               "RelativeToolTip": "Persistence\\Repositories\\TableSpecificationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:47:25.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:47:25.498Z"
             },
             {
               "$type": "Document",
@@ -403,8 +389,7 @@
               "RelativeToolTip": "Persistence\\Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T03:32:16.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T03:32:16.072Z"
             },
             {
               "$type": "Document",
@@ -416,8 +401,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswBIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:03:18.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T11:03:18.544Z"
             },
             {
               "$type": "Document",
@@ -429,8 +413,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:02:50.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T11:02:50.325Z"
             },
             {
               "$type": "Document",
@@ -442,8 +425,7 @@
               "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:03:39.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T11:03:39.872Z"
             },
             {
               "$type": "Document",
@@ -455,8 +437,7 @@
               "RelativeToolTip": "Persistence\\Models\\TableSpecification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:49:54.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:49:54.369Z"
             }
           ]
         }

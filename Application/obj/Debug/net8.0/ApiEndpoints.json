@@ -29,7 +29,23 @@
     "Parameters": [
       {
         "Name": "loginRequest",
-        "Type": "Application.Controllers.AuthController\u002BLoginRequest",
+        "Type": "LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Application.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/v1/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshRequest",
+        "Type": "RefreshRequest",
         "IsRequired": true
       }
     ],
